@@ -1,1 +1,1 @@
-function login() { console.log('用户登录'); }
+function getProfile() { return {}; }
